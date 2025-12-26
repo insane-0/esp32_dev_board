@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=CON1_USB_N Pin=D5-2
+Removed Pin From Net: NetName=CON1_USB_N Pin=J1-A6
+Removed Pin From Net: NetName=CON1_USB_N Pin=J1-B6
+Removed Pin From Net: NetName=CON1_USB_N Pin=R6-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U2-17
+Add Pin To Net: Unknown Pin: Pin U2-18
+Add Pin To Net: Unknown Pin: Pin U2-19
+Add Pin To Net: Unknown Pin: Pin U2-20
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Add Pin To Net: Unknown Pin: Pin U2-25
+Add Pin To Net: Unknown Pin: Pin U2-26
+Add Pin To Net: Unknown Pin: Pin U2-27
+Add Pin To Net: Unknown Pin: Pin U2-28
+Add Pin To Net: Unknown Pin: Pin U2-29
+Add Pin To Net: Unknown Pin: Pin U2-30
+Add Pin To Net: Unknown Pin: Pin U2-31
+Add Pin To Net: Unknown Pin: Pin U2-32
+Add Pin To Net: Unknown Pin: Pin U2-33
+Add Pin To Net: Unknown Pin: Pin U2-34
+Add Pin To Net: Unknown Pin: Pin U2-35
+Add Pin To Net: Unknown Pin: Pin U2-36
+Add Pin To Net: Unknown Pin: Pin U2-37
+Add Pin To Net: Unknown Pin: Pin U2-38
+Add Pin To Net: Unknown Pin: Pin U2-39
+Add Pin To Net: Unknown Pin: Pin U2-40
+Add Pin To Net: Unknown Pin: Pin U2-41
+Add Pin To Net: Unknown Pin: Pin U2-42
+Add Pin To Net: Unknown Pin: Pin U2-43
+Add Pin To Net: Unknown Pin: Pin U2-44
+Add Pin To Net: Unknown Pin: Pin U2-45
+Add Pin To Net: Unknown Pin: Pin U2-46
+Add Pin To Net: Unknown Pin: Pin U2-47
+Add Pin To Net: Unknown Pin: Pin U2-48
+Add Pin To Net: Unknown Pin: Pin U2-49
+Add Pin To Net: Unknown Pin: Pin U2-50
+Add Pin To Net: Unknown Pin: Pin U2-51
+Add Pin To Net: Unknown Pin: Pin U2-52
+Add Pin To Net: Unknown Pin: Pin U2-53
+Add Pin To Net: Unknown Pin: Pin U2-54
+Add Pin To Net: Unknown Pin: Pin U2-55
+Add Pin To Net: Unknown Pin: Pin U2-56
+Add Pin To Net: Unknown Pin: Pin U2-57
+Add Pin To Net: Unknown Pin: Pin U2-58
+Add Pin To Net: Unknown Pin: Pin U2-59
+Add Pin To Net: Unknown Pin: Pin U2-60
+Add Pin To Net: Unknown Pin: Pin U2-61
+Add Pin To Net: Unknown Pin: Pin U2-62
+Add Pin To Net: Unknown Pin: Pin U2-63
+Add Pin To Net: Unknown Pin: Pin U2-64
+Add Pin To Net: Unknown Pin: Pin U2-65
+Add Pin To Net: Unknown Pin: Pin U2-66
+Add Pin To Net: Unknown Pin: Pin U2-67
+Add Pin To Net: Unknown Pin: Pin U2-68
+Add Pin To Net: Unknown Pin: Pin U2-69
+Add Pin To Net: Unknown Pin: Pin U2-70
+Add Pin To Net: Unknown Pin: Pin U2-71
+Add Pin To Net: Unknown Pin: Pin U2-72
+Add Pin To Net: Unknown Pin: Pin U2-73
+Added Pin To Net: NetName=CON1_USB_P Pin=D5-2
+Added Pin To Net: NetName=CON1_USB_P Pin=J1-A6
+Added Pin To Net: NetName=CON1_USB_P Pin=J1-B6
+Added Pin To Net: NetName=CON1_USB_P Pin=R6-2
+Added Net: Name=CON1_USB_P
+Added Differential Pair: Name=CON1_USB
+Add Class Member: Failed to add class member : Component U2 ESP32-S3-MINI-1-N8
+Added Member To Class: ClassName=DIFF90 Member=CON1_USB

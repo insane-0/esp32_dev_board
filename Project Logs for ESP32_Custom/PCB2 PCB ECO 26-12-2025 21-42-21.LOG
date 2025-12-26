@@ -1,0 +1,46 @@
+Added Component: Designator=U2(XCVR_ESP32-S3-MINI-1-N8)
+Add component (AddParameter): Name = "Category"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2913206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-S3-MINI-1-N8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=3.1 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1965-ESP32-S3-MINI-1-N8CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=3v3 Pin=U2-3
+Added Pin To Net: NetName=GPIO14 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-42
+Added Pin To Net: NetName=GND Pin=U2-43
+Added Pin To Net: NetName=CHIP_PU Pin=U2-45
+Added Pin To Net: NetName=GND Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U2-48
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-50
+Added Pin To Net: NetName=GND Pin=U2-51
+Added Pin To Net: NetName=GND Pin=U2-52
+Added Pin To Net: NetName=GND Pin=U2-53
+Added Pin To Net: NetName=GND Pin=U2-54
+Added Pin To Net: NetName=GND Pin=U2-55
+Added Pin To Net: NetName=GND Pin=U2-56
+Added Pin To Net: NetName=GND Pin=U2-57
+Added Pin To Net: NetName=GND Pin=U2-58
+Added Pin To Net: NetName=GND Pin=U2-59
+Added Pin To Net: NetName=GND Pin=U2-60
+Added Pin To Net: NetName=GND Pin=U2-61
+Added Pin To Net: NetName=GND Pin=U2-62
+Added Pin To Net: NetName=GND Pin=U2-63
+Added Pin To Net: NetName=GND Pin=U2-64
+Added Pin To Net: NetName=GND Pin=U2-65
+Added Pin To Net: NetName=GND Pin=U2-66
+Added Pin To Net: NetName=GND Pin=U2-67
+Added Pin To Net: NetName=GND Pin=U2-68
+Added Pin To Net: NetName=GND Pin=U2-69
+Added Pin To Net: NetName=GND Pin=U2-70
+Added Pin To Net: NetName=GND Pin=U2-71
+Added Pin To Net: NetName=GND Pin=U2-72
+Added Pin To Net: NetName=GND Pin=U2-73
+Added Member To Class: ClassName=Sheet1 Member=Component U2 ESP32-S3-MINI-1-N8

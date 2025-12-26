@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5 Pin=D2-2
+Removed Pin From Net: NetName=+5 Pin=R1-2
+Removed Pin From Net: NetName=+5 Pin=R8-1
+Added Pin To Net: NetName=+5 Pin=J5-1
+Added Pin To Net: NetName=RXD_FTDI Pin=U1-1
+Added Pin To Net: NetName=TXD_FTDI Pin=U1-17
+Added Pin To Net: NetName=DTR_FTDI Pin=U1-18
+Added Pin To Net: NetName=RTS_FTDI Pin=U1-19
+Change Net Name : Old Net Name=+5 New Net Name=+5V_VBUS1
+Added Pin To Net: NetName=+5 Pin=D2-2
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R8-1
+Added Net: Name=+5
